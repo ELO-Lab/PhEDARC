@@ -12,6 +12,7 @@ dependencies:
   - pip:
     - cffi==1.12.3
     - glfw==1.8.1
+    - fastrand==1.1
     - gym==0.12.1
     - numpy
     - pandas
