@@ -21,14 +21,14 @@ conda activate phedarc
 - To reproduce results in the paper
 ```shell
 python run_exp.py --env <environment_name> 
-			--distil --phenotypic_mut --stable
-			--logdir <logging_directory> --seed <seed_number>
+		  --distil --phenotypic_mut --stable
+	  	  --logdir <logging_directory> --seed <seed_number>
 ```
 - In addition, you could replace the default mutation operator with proximal mutation
 ```shell
 python run_exp.py --env <environment_name>
-			--distil --proximal_mut --stable
-			--logdir <logging_directory> --seed <seed_number>
+		  --distil --proximal_mut --stable
+		  --logdir <logging_directory> --seed <seed_number>
 ```
 ### Other options
 |Hyperparameters          |Help                                                    |Default           |                
