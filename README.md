@@ -1,5 +1,5 @@
 # Stable and Sample-Efficient Policy Search for Continuous Control via Hybridizing Phenotypic Evolutionary Algorithm with the Double Actors Regularized Critics
-[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 Thai Huy Nguyen, Ngoc Hoang Luong
 
