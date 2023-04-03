@@ -37,6 +37,7 @@ python run_exp.py --env <environment_name>
 |`--save_csv_freq`        |Frequency (in generations) to store score statistics    |1                 |
 |`--next_frame_save`      |Actor save frequency (by frames)                        |1000000           |
 |`--num_test_evals`       |Number of episodes to evaluate test score               |5                 |
+
 ***Note:*** You could find all the hyperparameters settings in the parameters.py file.
 ### Evaluate & Rendering
 ```shell
