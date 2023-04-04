@@ -45,5 +45,5 @@ python evaluate.py --env <environment_name> --model_path <path_to_actor_model> -
 ```
 ## Acknowledgements
 Our source code is heavily relied and inspired by:
-- [Proximal Distilled Evolutionary Reinforcement Learning](https://github.com/crisbodnar/pderl) by Bodnar et al.
-- [Efficient Continuous Control with Double Actors and Regularized Critics](https://github.com/dmksjfl/DARC) by Lyu et al.
+- [Proximal Distilled Evolutionary Reinforcement Learning](https://github.com/crisbodnar/pderl) by Cristian Bodnar, Ben Day, Pietro Lió
+- [Efficient Continuous Control with Double Actors and Regularized Critics](https://github.com/dmksjfl/DARC) by Jiafei Lyu, Xiaoteng Ma, Jiangpeng Yan, Xiu Li
